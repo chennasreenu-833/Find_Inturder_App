@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindIntruderApp</string>
+    <string name="registration_activity">Registration</string>
+    <string name="password_not_sufficient">Your password is not strong enough. Please change your password</string>
+    <string name="password_sufficient">Your password is strong. You can proceed</string>
+
+</resources>
